@@ -65,10 +65,10 @@ python main.py
 After encoding/decoding, click "Save Result to File 💾"
 It will ask for a filename and save the following:
 
-  Original Text: hello
-  Method: Morse Code
-  Mode: Encode
-  Result: .... . .-.. .-.. ---
+ * Original Text: hello
+ * Method: Morse Code
+ * Mode: Encode
+ * Result: .... . .-.. .-.. ---
 
 ---
 
