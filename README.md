@@ -23,6 +23,15 @@ You can also **save your results to a `.txt` file** for later use!
 
 ---
 
+##🌟 Future Idea :
+
+  * 🔊 Text-to-speech for result
+  * 📋 Copy result to clipboard
+  * 📂 Load text from file
+  * 🌐 Add encryption/decryption for extra security
+
+---
+
 ## 🛠️ How to Run
 
 1. **Install Python** (3.6+ recommended)
